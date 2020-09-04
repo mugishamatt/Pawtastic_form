@@ -28,7 +28,7 @@ export default function NavBar() {
             </li>
             <li>
               <Link className='navBarLink' to="/confirm">confirm</Link>
-            </li>
+              </li>
             
           </ul>
         </nav>
