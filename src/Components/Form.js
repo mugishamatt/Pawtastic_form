@@ -145,16 +145,16 @@ class UserForm extends Component {
                             <div >
                             </div>
                         </div>
-                         <div className="buttons">
-                         <div className="backbtn">
-                            <button className='subbtn' type="submit">back</button>
-                        </div>
-                        <div className="nextbtn">
-                            <button className='subbtn' type="submit"> next</button>
-                        </div>
+                        <div className="buttons">
+                            <div className="backbtn">
+                                <button className='subbtn' type="submit">back</button>
+                            </div>
+                            <div className="nextbtn">
+                                <button className='subbtn' type="submit"> next</button>
+                            </div>
 
-                        
-                    </div>
+
+                        </div>
                     </div>
                 </form>
                 {/* {this.state.showUsers && <User formData={this.state.userInfo} />} */}
